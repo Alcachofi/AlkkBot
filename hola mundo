@@ -1,1 +1,0 @@
-tb.send_message(chatid, text) # Ejemplo tb.send_message('109556849', 'Hola mundo!')
