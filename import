@@ -1,5 +1,5 @@
 import telebot
 
-256729303:AAHIAa25zka46nwegmec6nPzQ5OR53pZTt4 = '<token string>'
+TOKEN = 256729303:AAHIAa25zka46nwegmec6nPzQ5OR53pZTt4
 
-tb = telebot.Telebot(256729303:AAHIAa25zka46nwegmec6nPzQ5OR53pZTt4)
+tb = telebot.TeleBot(TOKEN)
